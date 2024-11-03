@@ -2,5 +2,6 @@
 The purpose of this 1611_King_James_Bible repository is to store the downloaded checksummed and signed purported sources of the 1611 King James Bible here https://www.kingjamesbibleonline.org/1611-Bible/1611-King-James-Bible-Introduction.php
  Forthcomming this repository is a [Bible Quest](https://github.com/users/freedom-foundation/projects/6) project to visit the upstream source at the Rare Book and Manuscript Library, University of Pennsylvania in which it is held and verify the hardcopy source.
  The highest resolution source scan with accompanying text is here https://www.kingjamesbibleonline.org/Genesis_1_1611/ and image file here https://www.kingjamesbibleonline.org/1611-Bible-KJV/webp/Genesis-Chapter-1-1.webp the website has the following attribution: * Some content courtesy of Rare Book and Manuscript Library, University of Pennsylvania
- The Library's contact informatiin is here https://www.library.upenn.edu/kislak/kislak-center-reading-room
+ The Library's contact informatiin is here https://www.library.upenn.edu/kislak/kislak-center-reading-room With credit to Sarah and Robert the source of 1611KJV is here from UPenn https://upenn.app.box.com/s/lqfww0pd2pmjx9vvrcfs7ht0zx2byhrw the link does expire. I welcome a second attestation of the checksums of my download. The checksums of the content of the download are in this repository for the Access_copies here.
+ The Access copies are to be sidelined but can serve as a second checksum in the case the preservation_copies are corrupted.
 
