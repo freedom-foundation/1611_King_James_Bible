@@ -9,3 +9,5 @@ The purpose of this 1611_King_James_Bible repository is to store the downloaded 
  The Access copies are to be sidelined but can serve as a second checksum in the case the preservation_copies are corrupted.
 <h2>Changelog</h2>
 Remove 1900s edition bible because of a bunch of verbiage the publisher has [ of which can't be backed up: emails available upon request ] https://github.com/freedom-foundation/1611_King_James_Bible/blob/main/KJB-PCE-MINION.4cba241222ce20dfa38959ec2557a167.8993e2ca650c7737c3b19b873c9db66184c25209.pdf there is no garuntee of from where with 1900s edition is sourced.
+
+20241111 Now that the full download has be unziped remove the checksums of the zip files which are no more.needed now thatbthe contents have been checksumed. A better checksum has arrived. 
